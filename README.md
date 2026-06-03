@@ -28,3 +28,4 @@ bash script.sh
 ## Назначение
 
 Проект создан для практики работы с Bash, Linux-командами и базовым серверным мониторингом.
+https://roadmap.sh/projects/server-stats
